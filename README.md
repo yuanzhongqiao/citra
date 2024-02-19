@@ -1,98 +1,66 @@
-<h1 align="center">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" tabindex="-1" dir="auto"><a id="user-content---------citra--" class="anchor" aria-hidden="true" tabindex="-1" href="#--------citra--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
   <br>
-  <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
+  <a href="https://citra-emu.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="图像" width="200" style="max-width: 100%;"></a>
   <br>
-  <b>Citra</b>
+  <b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像</font></font></b>
   <br>
 </h1>
-
-<h4 align="center"><b>Citra</b> is the world's most popular, open-source, Nintendo 3DS emulator.
-<br>
-It is written in C++ with portability in mind and builds are actively maintained for Windows, Linux, Android and macOS.
-</h4>
-
-<p align="center">
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-citra-is-the-worlds-most-popular-open-source-nintendo-3ds-emulatorit-is-written-in-c-with-portability-in-mind-and-builds-are-actively-maintained-for-windows-linux-android-and-macos" class="anchor" aria-hidden="true" tabindex="-1" href="#citra-is-the-worlds-most-popular-open-source-nintendo-3ds-emulatorit-is-written-in-c-with-portability-in-mind-and-builds-are-actively-maintained-for-windows-linux-android-and-macos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Citra</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是世界上最受欢迎的开源任天堂 3DS 模拟器。
+</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+它是用 C++ 编写的，考虑到了可移植性，并且针对 Windows、Linux、Android 和 macOS 积极维护构建。
+</font></font></h4>
+<p align="center" dir="auto">
     <a href="https://github.com/citra-emu/citra/actions/">
-        <img src="https://github.com/citra-emu/citra/workflows/citra-ci/badge.svg"
-            alt="GitHub Actions Build Status">
+        <img src="https://github.com/citra-emu/citra/workflows/citra-ci/badge.svg" alt="GitHub Actions 构建状态" style="max-width: 100%;">
     </a>
-    <a href="https://discord.gg/FAXfZV9">
-        <img src="https://img.shields.io/discord/220740965957107713?color=%237289DA&label=Citra&logo=discord&logoColor=white"
-            alt="Discord">
+    <a href="https://discord.gg/FAXfZV9" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/e2f8646650ce5b31c2731f768cdc308af85c3b7a55cb098c7abd8fce2cc0f75a/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3232303734303936353935373130373731333f636f6c6f723d253233373238394441266c6162656c3d4369747261266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="不和谐" data-canonical-src="https://img.shields.io/discord/220740965957107713?color=%237289DA&amp;label=Citra&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
     </a>
 </p>
-
-<p align="center">
-  <a href="#compatibility">Compatibility</a> |
-  <a href="#releases">Releases</a> |
-  <a href="#development">Development</a> |
-  <a href="#building">Building</a> |
-  <a href="#support">Support</a> |
-  <a href="#license">License</a>
+<p align="center" dir="auto">
+  <a href="#compatibility"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">兼容性</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="#releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="#development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="#building"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建筑</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="#support"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a>
 </p>
-
-
-## Compatibility
-
-The emulator is capable of running most commercial games at full speed, provided you meet the necessary hardware requirements.
-
-For a full list of games Citra supports, please visit our [Compatibility page](https://citra-emu.org/game/)
-
-Check out our [website](https://citra-emu.org/) for the latest news on exciting features, progress reports, and more!
-Please read the [FAQ](https://citra-emu.org/wiki/faq/) before getting started with the project.
-
-Need help? Check out our [asking for help](https://citra-emu.org/help/reference/asking/) guide.
-
-## Releases
-
-Citra has two main release channels: Nightly and Canary.
-
-The [Nightly](https://github.com/citra-emu/citra-nightly) build is based on the master branch, and contains already reviewed and tested features.
-
-The [Canary](https://github.com/citra-emu/citra-canary) build is based on the master branch, but with additional features still under review. PRs tagged `canary-merge` are merged only into the Canary builds.
-
-Both builds can be installed with the installer provided on the [website](https://citra-emu.org/download/), but those looking for specific versions or standalone releases can find them in the release tabs of the [Nightly](https://github.com/citra-emu/citra-nightly/releases) and [Canary](https://github.com/citra-emu/citra-canary/releases) repositories.
-
-Android builds can be downloaded from the Google Play Store.
-
-A Flatpak for Citra is available on [Flathub](https://flathub.org/apps/details/org.citra_emu.citra). Details on the build process can be found in [our Flathub repository](https://github.com/flathub/org.citra_emu.citra).
-
-## Development
-
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/citra-emu/citra) is hosted.
-For development discussion, please join us on our [Discord server](https://citra-emu.org/discord/) or at #citra-dev on libera.
-
-If you want to contribute please take a look at the [Contributor's Guide](https://github.com/citra-emu/citra/wiki/Contributing) and [Developer Information](https://github.com/citra-emu/citra/wiki/Developer-Information). You can also contact any of the developers on Discord in order to know about the current state of the emulator.
-
-If you want to contribute to the user interface translation, please check out the [Citra project on transifex](https://www.transifex.com/citra/citra). We centralize the translation work there, and periodically upstream translations.
-
-## Building
-
-* __Windows__: [Windows Build](https://github.com/citra-emu/citra/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/citra-emu/citra/wiki/Building-For-Linux)
-* __macOS__: [macOS Build](https://github.com/citra-emu/citra/wiki/Building-for-macOS)
-* __Android__: [Android Build](https://github.com/citra-emu/citra/wiki/Building-for-Android)
-
-
-## Support
-
-If you enjoy the project and want to support us financially, check out our Patreon!
-
-<a href="https://www.patreon.com/citraemu">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+<h2 tabindex="-1" dir="auto"><a id="user-content-compatibility" class="anchor" aria-hidden="true" tabindex="-1" href="#compatibility"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">兼容性</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只要您满足必要的硬件要求，模拟器就能够全速运行大多数商业游戏。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 Citra 支持的游戏的完整列表，请访问我们的</font></font><a href="https://citra-emu.org/game/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">兼容性页面</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问我们的</font></font><a href="https://citra-emu.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解有关令人兴奋的功能、进度报告等的最新消息！请</font><font style="vertical-align: inherit;">在开始该项目之前</font><font style="vertical-align: inherit;">阅读</font></font><a href="https://citra-emu.org/wiki/faq/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常见问题解答。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">需要帮忙？查看我们的</font></font><a href="https://citra-emu.org/help/reference/asking/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻求帮助</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-releases" class="anchor" aria-hidden="true" tabindex="-1" href="#releases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Citra 有两个主要发布渠道：Nightly 和 Canary。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每夜</font><font style="vertical-align: inherit;">构建基于主分支，并包含已经审查和测试的功能</font></font><a href="https://github.com/citra-emu/citra-nightly"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Canary</font><font style="vertical-align: inherit;">版本基于 master 分支，但其他功能仍在审查中</font></font><a href="https://github.com/citra-emu/citra-canary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标记的 PR</font></font><code>canary-merge</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅合并到 Canary 版本中。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://citra-emu.org/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这两个版本都可以使用网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上提供的安装程序进行安装</font><font style="vertical-align: inherit;">，但那些寻找特定版本或独立版本的人可以在</font></font><a href="https://github.com/citra-emu/citra-nightly/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nightly</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/citra-emu/citra-canary/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Canary</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库的发布选项卡中找到它们。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Android 版本可以从 Google Play 商店下载。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://flathub.org/apps/details/org.citra_emu.citra" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flathub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上提供了适用于 Citra 的 Flatpak </font><font style="vertical-align: inherit;">。有关构建过程的详细信息可以在</font></font><a href="https://github.com/flathub/org.citra_emu.citra"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的 Flathub 存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中找到</font><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-development" class="anchor" aria-hidden="true" tabindex="-1" href="#development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大部分开发都发生在 GitHub 上。这也是</font></font><a href="https://github.com/citra-emu/citra"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的中央存储库的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">托管位置。如需进行开发讨论，请加入我们的</font></font><a href="https://citra-emu.org/discord/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或 libera 上的#citra-dev。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想做出贡献，请查看</font></font><a href="https://github.com/citra-emu/citra/wiki/Contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/citra-emu/citra/wiki/Developer-Information"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。您还可以联系 Discord 上的任何开发人员，以了解模拟器的当前状态。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想为用户界面翻译做出贡献，请查看</font></font><a href="https://www.transifex.com/citra/citra" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">transifex 上的 Citra 项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。我们将翻译工作集中在那里，并定期进行上游翻译。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-building" class="anchor" aria-hidden="true" tabindex="-1" href="#building"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建筑</font></font></h2>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://github.com/citra-emu/citra/wiki/Building-For-Windows"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows 构建</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://github.com/citra-emu/citra/wiki/Building-For-Linux"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux 构建</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">macOS</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://github.com/citra-emu/citra/wiki/Building-for-macOS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">macOS 构建</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://github.com/citra-emu/citra/wiki/Building-for-Android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓构建</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-support" class="anchor" aria-hidden="true" tabindex="-1" href="#support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您喜欢这个项目并想在经济上支持我们，请查看我们的 Patreon！</font></font></p>
+<a href="https://www.patreon.com/citraemu" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/1af53c3ba0a4673b0510798b815d631585acf3de5f16430f3695db00c961e113/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e4032782e706e67" width="160" data-canonical-src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" style="max-width: 100%;">
 </a>
-
-We also happily accept donated games and hardware.
-Please see our [donations page](https://citra-emu.org/donate/) for more information on how you can contribute to Citra.
-Any donations received will go towards things like:
-* 3DS consoles for developers to explore the hardware
-* 3DS games for testing
-* Any equipment required for homebrew
-* Infrastructure setup
-
-We also more than gladly accept used 3DS consoles! If you would like to give yours away, don't hesitate to join our [Discord server](https://citra-emu.org/discord/) and talk to bunnei.
-
-
-## License
-
-Citra is licensed under the GPLv2 (or any later version). Refer to the [LICENSE.txt](https://github.com/citra-emu/citra/blob/master/license.txt) file.
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们也很乐意接受捐赠的游戏和硬件。请参阅我们的</font></font><a href="https://citra-emu.org/donate/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">捐款页面，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关如何为 Citra 捐款的更多信息。收到的任何捐款将用于以下用途：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">供开发人员探索硬件的 3DS 控制台</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于测试的 3DS 游戏</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自制所需的任何设备</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基础设施设置</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们也非常乐意接受二手 3DS 游戏机！如果您想赠送您的，请随时加入我们的</font></font><a href="https://citra-emu.org/discord/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并与 Bunnei 交谈。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Citra 根据 GPLv2（或任何更高版本）获得许可。请参阅</font></font><a href="https://github.com/citra-emu/citra/blob/master/license.txt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LICENSE.txt</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件。</font></font></p>
+</article></div>
